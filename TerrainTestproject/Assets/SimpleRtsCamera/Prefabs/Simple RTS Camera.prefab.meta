@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6452c4c7b763da2439badc7881d22e60
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312045
+  packageName: Simple RTS Camera
+  packageVersion: 1.0.0
+  assetPath: Assets/SimpleRtsCamera/Prefabs/Simple RTS Camera.prefab
+  uploadId: 735284
